@@ -1,3 +1,3 @@
 # fashion guide
 
-![alt text](https://github.com/hljacobs5/hj-comp-challenge-1/blob/master/template-1.png)
+![alt text](https://github.com/hljacobs5/fashion-guide/blob/master/Screen%20Shot%202018-12-19%20at%206.02.54%20PM.png)

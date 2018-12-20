@@ -1,0 +1,81 @@
+body {
+  display: flex;
+  /*background-color: #C2E2EC;*/
+  background-color: #FFF5ED;
+  font-family: 'Poiret One', cursive;
+}
+
+.right-panel {
+  /*display: flex;*/
+  /*justify-content: left;*/
+  display: flex;
+  flex: 1.5;
+  min-height: 100vh;
+  min-width: 200px;
+  /*background-color: #619CAD;*/
+  /*background-color: #FFD1B0;*/
+  /*background-color: #C2E2EC;*/
+  background-color: #FFFBEA;
+  font-size: initial;
+  border-right: 2px grey;
+
+}
+
+.main-section {
+  display: inline-block;
+  flex: 6;
+  padding-left: 20px;
+}
+
+.list {
+  padding-top: 20px;
+}
+ul {
+  list-style: none;
+  font-family: 'Poiret One', cursive;
+  /*color: #93C4D2;*/
+  color: #FFE4D0;
+}
+.main-section h1 {
+  color: #FFF;
+  font-family: 'Alex Brush', cursive;
+  text-align: center;
+  font-size: 4rem;
+  width: 100%;
+}
+
+.top-header h1 {
+  /*display: flex;*/
+  /*flex: 6;*/
+  /*padding-left: 1.5rem;*/
+  font-size: 5rem;
+  color: #FFD1B0;
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.main-section h2 {
+  color: #FFD1B0;
+}
+
+
+#first-camo-pic, #second-camo-pic, #third-camo-pic
+, #fourth-camo-pic {
+  height: 300px;
+  width: 230px;
+  display: inline-flex;
+}
+
+#fourth-camo-pic {
+  width: 460px;
+}
+/*#760040
+
+#B70064-lightest pink
+
+#970052-second pink
+
+#51002C-third pink
+
+#200012- darkest pink*/
